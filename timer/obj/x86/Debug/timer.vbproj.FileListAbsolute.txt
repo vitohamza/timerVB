@@ -1,0 +1,11 @@
+D:\vito\visual studio\timer\timer\bin\Debug\timer.exe
+D:\vito\visual studio\timer\timer\bin\Debug\timer.pdb
+D:\vito\visual studio\timer\timer\bin\Debug\timer.xml
+D:\vito\visual studio\timer\timer\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\vito\visual studio\timer\timer\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\vito\visual studio\timer\timer\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\vito\visual studio\timer\timer\obj\x86\Debug\timer.vbproj.GenerateResource.Cache
+D:\vito\visual studio\timer\timer\obj\x86\Debug\timer.exe
+D:\vito\visual studio\timer\timer\obj\x86\Debug\timer.xml
+D:\vito\visual studio\timer\timer\obj\x86\Debug\timer.pdb
+D:\vito\visual studio\timer\timer\obj\x86\Debug\WindowsApplication1.STAPH.resources

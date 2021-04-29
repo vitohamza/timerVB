@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "timer", "timer\timer.vbproj", "{D8B9A929-DEEE-417B-81AF-44F6FE38E3FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8B9A929-DEEE-417B-81AF-44F6FE38E3FE}.Debug|x86.ActiveCfg = Debug|x86
+		{D8B9A929-DEEE-417B-81AF-44F6FE38E3FE}.Debug|x86.Build.0 = Debug|x86
+		{D8B9A929-DEEE-417B-81AF-44F6FE38E3FE}.Release|x86.ActiveCfg = Release|x86
+		{D8B9A929-DEEE-417B-81AF-44F6FE38E3FE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
